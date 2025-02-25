@@ -1,4 +1,4 @@
-import { UNCBasketballAIBot , Thomas } from "@/configuration/identity";
+import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
 export const CHAT_HEADER: string = `UNC Basketball AI Bot`;
 export const MESSAGE_PLACEHOLDER: string = `TAR`;
