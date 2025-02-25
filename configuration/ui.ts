@@ -1,6 +1,6 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
-export const CHAT_HEADER: string = `UNC Basketball AI Bot`;
+export const CHAT_HEADER: string = `The UNC Basketball Bot`;
 export const MESSAGE_PLACEHOLDER: string = `TAR`;
 export const FOOTER_MESSAGE: string = `GO HEELS!`;
 export const CLEAR_BUTTON_TEXT: string = `CLEAR BUTTON`;
